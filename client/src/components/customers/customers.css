@@ -1,0 +1,12 @@
+.customers__list {
+  list-style: none;
+  padding: 0;
+  width: 30%;
+  margin: auto;
+}
+
+.customers__list-item {
+  font-size: 1.3rem;
+  line-height: 2rem;
+  border-bottom: 1px dotted #777;
+}
